@@ -1,0 +1,211 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+.main-header{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.h-button{
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: 2px solid hsl(321, 100%, 78%);
+    color: hsl(321, 100%, 78%);
+    background-color: white;
+}
+.f-header{
+    margin:100px 70px 30px 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.f-heading{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 10px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.shrink{
+    width:491px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+.f-button{
+    padding:10px 45px;
+    border-radius: 25px;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border: none;
+}
+.mockup{
+    display: block;
+    
+    margin: 80px auto;
+}
+.counts{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 90px;
+    text-align: center;
+}
+.large{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: -1px;
+}
+.small{
+    color: rgb(122, 142, 161);
+}
+.f-mid-flex{
+    display: flex;
+    background-color: hsl(207, 100%, 98%);
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    
+}
+
+.c-svg{
+    width: 70%;
+    height: 100%;
+    display: block;
+    margin: 0px auto;
+    
+}
+
+.mid{
+    margin-top: 0px;
+    margin-bottom: 130px;
+}
+
+.st1div{
+    margin-bottom: 0px;
+    
+}
+.st1{
+    width: 100%;
+    margin-bottom: 0px;
+
+    position: relative;
+    bottom: 10%;
+}
+.sb1{
+    width: 100%;
+}
+
+.smaller{
+    font-weight: 400;
+    width: 71%;
+      
+}
+.larger{
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(192, 100%, 9%);
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+}
+.inner p{
+    text-align: center;
+}
+.smaller{
+    float: right;
+}
+.mid2{
+    display: flex;
+    margin-bottom: 130px;
+}
+.fci{
+    width: 70%;
+}
+.innerl{
+    justify-content: center;
+    margin: auto;
+}
+.center{
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.mid-b2{
+    margin-bottom: 200px;
+}
+.ft{
+    width:100%;
+}
+.phone{
+    display: flex;
+}
+.email{
+    display: flex;
+}
+.iphone,.iemail{
+    color: white;
+    height: 40%;
+    margin: 16px 0px;
+}
+.s-button{
+    padding:10px 45px;
+    border-radius: 5px;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border: none;
+}
+.input-s{
+    margin-right: 30px;
+    padding:10px 45px;
+}
+.form{
+    margin-top: 40px;
+}
+.f-mid-flex-b{
+    display: flex;
+    background-color:  hsl(192, 100%, 9%);
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    height: 500px;
+}
+.logo-b{
+    color:white;
+
+}
+.smaller-b{
+    color: hsl(207, 100%, 98%);
+}
+.larger-b{
+    font-weight: 700;
+    font-size: 40px;
+    color:hsl(207, 100%, 98%) ;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+}
+.side-content{
+    align-items: center;
+}
+.iphone-div,.iemail-div{
+   margin-right: 20px;
+}
+.inner-b{
+    width: 50%;
+    margin-left: 120px;
+}
+.form{
+    display: flex;
+}
